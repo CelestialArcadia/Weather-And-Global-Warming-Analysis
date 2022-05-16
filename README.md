@@ -30,4 +30,10 @@ These are called <b>Terminologies</b>, also known as column names or criteria us
 
 The dataset has hourly temperature recorded for the last 10 years starting from 2006–04–01 00:00:00.000 +0200 to 2016–09–09 23:00:00.000 +0200. It corresponds to Finland, a country in Northern Europe.
 
-### Data Preprocessing
+### EDA Summary
+    1. Data Wrangling
+    2. Analysis
+        2.1. Relation Between "Apparent Temperature" & "Humidity" using Regression
+        2.2. Variation of "Apparent Temperature" for every month during 10 year period
+        2.3. Variation of "Humidity" for every month during 10 year period 
+    3. Conclusion
